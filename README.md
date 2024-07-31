@@ -5,6 +5,7 @@ Third Year Recommender System project just before my personal break from Univers
 Includes both personalized and non-personalized Recommender Systems
 ## Running the Recommender System
 
+Make sure to download <a href="facebook.com">ml-latest-small</a>
 To run the Recommender System, open the Python file in a command line and run `python RS.py` or use an equivalent Python IDE.
 
 ### Inputs
