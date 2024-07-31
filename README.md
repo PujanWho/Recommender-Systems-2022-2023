@@ -5,7 +5,6 @@ Third Year Recommender System project just before my personal break from Univers
 Includes both personalized and non-personalized Recommender Systems
 ## Running the Recommender System
 
-Make sure to download <a href="facebook.com">ml-latest-small</a>
 To run the Recommender System, open the Python file in a command line and run `python RS.py` or use an equivalent Python IDE.
 
 ### Inputs
@@ -19,7 +18,7 @@ The Jupyter Notebook included in the project shows the process and separates per
 ## Methodology
 
 ### Data Source
-The dataset used for this project is the MovieLens dataset from GroupLens, which includes files like `ratings.csv`, `tags.csv`, `movies.csv`, and `links.csv`. The `ratings.csv` and `movies.csv` files are the primary sources for this recommender system.
+The dataset used for this project is the MovieLens dataset from GroupLens, which includes files like `ratings.csv`, `tags.csv`, `movies.csv`, and `links.csv`. The `ratings.csv` and `movies.csv` files are the primary sources for this recommender system. (Specifically used ml-latest-small)
 
 ### Data Preparation
 1. **Data Cleaning:** Duplicate entries in `movies.csv` were removed. The `genres` and `timestamp` columns were dropped from `movies.csv` and `ratings.csv`, respectively.
