@@ -1,6 +1,6 @@
 # Recommender-System(s)
 
-Recommender System 2022-2023  
+University Recommender System 2022-2023 edition
 Third Year Recommender System project just before my personal break from University to continue final year again in 2023-2024  
 Includes both personalized and non-personalized Recommender Systems
 ## Running the Recommender System
