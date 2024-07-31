@@ -1,7 +1,7 @@
 # Recommender-System(s)
 
 Recommender System 2022-2023  
-Third Year Recommender System project just before break to continue final year in 2023-2024  
+Third Year Recommender System project just before my personal break from University to continue final year again in 2023-2024  
 Includes both personalized and non-personalized Recommender Systems
 ## Running the Recommender System
 
@@ -27,7 +27,10 @@ The dataset used for this project is the MovieLens dataset from GroupLens, which
 4. **Sparse Matrix:** The pivot table was converted into a sparse matrix for efficient computations.
 
 ### Personalized Recommender System
-A non-probabilistic model-based collaborative filtering approach was employed using the K-Nearest Neighbors (KNN) algorithm.
+A non-probabilistic model-based collaborative filtering approach was employed.
+![Example of how collaborative filtering works](image1.png)
+Using the K-Nearest Neighbors (KNN) algorithm.
+![Example of KNN classification](image2.png)
 
 1. **Model Selection:** KNN was chosen due to its ability to handle the similarities between users and items without making assumptions about data distribution.
 2. **Similarity Metric:** Cosine similarity was used to measure the similarity between users and movies.
