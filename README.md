@@ -27,9 +27,9 @@ The dataset used for this project is the MovieLens dataset from GroupLens, which
 4. **Sparse Matrix:** The pivot table was converted into a sparse matrix for efficient computations.
 
 ### Personalized Recommender System
-A non-probabilistic model-based collaborative filtering approach was employed.</br>
+A [non-probabilistic model-based collaborative filtering](https://www.researchgate.net/figure/Principle-of-collaborative-filtering-algorithm_fig1_372011873) approach was employed.</br>
 ![Example of how collaborative filtering works](image1.png)</br>
-Using the K-Nearest Neighbors (KNN) algorithm.</br>
+Using the [K-Nearest Neighbors (KNN) algorithm](https://sowjanyasadashiva.medium.com/k-nearest-neighbor-c1c8a5f04835).</br>
 ![Example of KNN classification](image2.png)</br>
 
 1. **Model Selection:** KNN was chosen due to its ability to handle the similarities between users and items without making assumptions about data distribution.
